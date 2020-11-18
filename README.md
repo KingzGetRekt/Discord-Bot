@@ -1,1 +1,2 @@
-# Discord-Bot
+pip install discord
+pip install discord.py
